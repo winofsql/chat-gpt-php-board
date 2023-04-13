@@ -13,3 +13,4 @@ PHPで掲示板を作成してください
 
 ![image](https://user-images.githubusercontent.com/1501327/231640128-9c7d9a94-96c7-4c02-862d-7da1cf07b488.png)
 
+![image](https://user-images.githubusercontent.com/1501327/231640256-43b9295f-f336-49ac-8b10-f1f34f38ad5a.png)
