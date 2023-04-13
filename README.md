@@ -22,3 +22,5 @@ PHPで掲示板を作成してください
 ![image](https://user-images.githubusercontent.com/1501327/231640818-138a454b-9b4f-4785-9050-a2971dbdd356.png)
 
 ![image](https://user-images.githubusercontent.com/1501327/231641199-46f6bfee-c155-4679-96af-ae1ad162d4e8.png)
+
+![image](https://user-images.githubusercontent.com/1501327/231641441-76d335ae-f8db-4693-a51e-06569a547590.png)
