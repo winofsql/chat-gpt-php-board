@@ -30,3 +30,5 @@ PHPで掲示板を作成してください
 ![image](https://user-images.githubusercontent.com/1501327/231641673-c70b23fb-6fe9-484b-a5aa-4fde7fd21cc3.png)
 
 ![image](https://user-images.githubusercontent.com/1501327/231641819-c20a8318-8dd5-4a39-9da8-281b7a7dc990.png)
+
+![image](https://user-images.githubusercontent.com/1501327/231641947-d5bfa1ec-76c3-4cb3-a98f-f52b4ab2b33d.png)
